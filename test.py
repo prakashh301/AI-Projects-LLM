@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 def analyze_text_with_groq(text, prompt):
-    api_key = "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"  # Replace with your actual API key
+    api_key = "oats&biscuits"  # Replace with your actual API key
     
     client = Groq(api_key=api_key)
     
